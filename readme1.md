@@ -14,3 +14,4 @@
 <img width="824" height="144" alt="image" src="https://github.com/user-attachments/assets/e262b604-7670-41db-8874-4eee93e95bcd" />
 # Удаление сломанного диска и добавление нового 
 <img width="824" height="144" alt="image" src="https://github.com/user-attachments/assets/bf1a6fc9-5920-4037-8e92-50014272333e" />
+<img width="921" height="287" alt="image" src="https://github.com/user-attachments/assets/16583148-4f4d-484d-877e-3c9ebffb903e" />

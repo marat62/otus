@@ -8,3 +8,8 @@
 <img width="960" height="142" alt="image" src="https://github.com/user-attachments/assets/9226cb96-abfe-482d-92d7-34b9e19aa2a4" />
 #Кастомная страница
 <img width="683" height="295" alt="image" src="https://github.com/user-attachments/assets/22df8ebb-bb7c-45ce-bb6c-ad7f1f93842e" />
+
+
+Образ это то из чего создается контейнер
+
+Запушить образ не получается, аторизация не проходит, нужен  VPN 
